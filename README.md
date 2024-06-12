@@ -1,6 +1,3 @@
-Sure! Here’s a consolidated `README.md` file that combines all the aspects of your projects and provides a clear abstract at the start. This README outlines your vision for an application that allows users to check their Spotify stats, receive recommendations, and see what's popular.
-
-```markdown
 # Spotify Stats, Recommendations, and Popularity Analysis
 
 This project aims to create a comprehensive application where users can check their Spotify stats, receive personalized song recommendations, and explore popular tracks. The application leverages machine learning to analyze song features and recommend tracks, while also providing insightful statistics and visualizations based on Spotify's data.
